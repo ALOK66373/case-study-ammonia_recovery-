@@ -1,4 +1,4 @@
-# case-study-ammonia_recovery-
+# Case-study-Advanced-Ammonia_recovery-
 Advanced ammonia recovery
  This ammonia recovery project is dedicated to understand the mass transfer laws:
 
